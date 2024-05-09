@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="28.881">
+    <testcase classname="Testing BP Travel Login Page" name="Login of BpTravel" time="28.239">
+        <system-out><![CDATA[Given User need to Login to Bp Url..........................................passed
+When Enter UserName.........................................................passed
+And Enter Password..........................................................passed
+Then Click Login............................................................passed
+And Click CreateLnk.........................................................passed
+Then Select From Country....................................................passed
+And Select State State......................................................passed
+Then Enter Departing Date...................................................passed
+Then Select Oneway checkbox.................................................passed
+And Select no of Adults Dropdown............................................passed
+And Select no of Children Dropdown..........................................passed
+And Enter Name..............................................................passed
+And Enter Postcode..........................................................passed
+And Enter Telephone.........................................................passed
+And Enter Email.............................................................passed
+Then Click Create quote button..............................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
